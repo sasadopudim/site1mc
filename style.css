@@ -1,12 +1,11 @@
-p{
-    font-size: 20px;
-;
+body {
+    background: #a93939
 }
 
-h1{
-    text-align: center
+p {
+    text-align: center;
 }
 
-ul{
-    text-align: center, justify;
+em, strong {
+    color:black
 }
