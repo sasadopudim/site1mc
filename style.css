@@ -1,13 +1,13 @@
 body {
-    background: #9e1818
+    background: #dbdbdb
 }
 
 #banner{
-
+   width: 100%;
 }
 
 h1 {
-    text-align: center
+    text-align: center;
 }
 
 p {
@@ -15,9 +15,9 @@ p {
 }
 
 #missao {
-    font-size: 20px
+    font-size: 30px;
 }
 
 em, strong {
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
 }
