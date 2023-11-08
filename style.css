@@ -1,9 +1,10 @@
 body {
-    background: #dbdbdb
+    background: rgba(207, 207, 90, 0.596)
 }
 
 #banner{
-   width: 100%;
+   width: 40%;
+   height: 500PX;
 }
 
 h1 {
